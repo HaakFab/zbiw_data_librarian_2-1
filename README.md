@@ -1,2 +1,2 @@
-# zbiw_data_librarian_2-1
-ZBIW Data Librarian Modul 2 Teil 1
+# zbiw-data-librarian-module2-1
+Code for module 2.1 of the certificate course "Data Librarian" of ZBIW, TH Köln
